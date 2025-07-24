@@ -1,5 +1,6 @@
-
-        VIRAT KOHLI CAREER STATISTICS ANALYSIS DASHBOARD
+==========================
+🏏  VIRAT KOHLI CAREER STATISTICS ANALYSIS DASHBOARD
+==========================
 
 A sleek, interactive Power BI dashboard that delivers deep insights 
 into the illustrious cricketing journey of VIRAT KOHLI — highlighting 
